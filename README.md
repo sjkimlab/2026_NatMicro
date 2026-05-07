@@ -1,5 +1,5 @@
-# Analysis and simulation code for bacterial mRNA life-cycle dynamics
-Analysis and Simulation Code used in Nat Micro (2026) paper
+# Analysis and Simulation Code for bacterial transcription-translation coupling and mRNA degradation
+Analysis and simulation code used in Nat Micro (2026) paper
 
 ## About
 This folder contains analysis code used in Kim et al on "Spatial and genetic constraints govern transcription-translation coupling and mRNA degradation in bacteria".
