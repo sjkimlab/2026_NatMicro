@@ -1,4 +1,4 @@
-# 2026_NatMicro
+# Analysis and simulation code for bacterial mRNA life-cycle dynamics
 Analysis and Simulation Code used in Nat Micro (2026) paper
 
 ## About
