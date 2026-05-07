@@ -1,4 +1,4 @@
-# Analysis and Simulation Code for bacterial transcription-translation coupling and mRNA degradation
+# Analysis and simulation code for bacterial transcription-translation coupling and mRNA degradation
 Analysis and simulation code used in Nat Micro (2026) paper
 
 ## About
